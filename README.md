@@ -10,3 +10,12 @@ It predicts whether the stock price will increase or decrease on the next tradin
 ├── README.md  
 ├── .gitignore  
 ├── LICENSE  
+
+### ⚠️ Disclaimer
+
+This project is for **educational and research purposes only**.  
+It does not provide financial advice and should not be used for live trading.
+
+### 👨‍💻 Developed by  
+Gagandeep Singh Choudhary  
+🔗 https://github.com/GagandeepSingh20
