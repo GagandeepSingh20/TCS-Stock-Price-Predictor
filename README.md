@@ -6,7 +6,7 @@ It predicts whether the stock price will increase or decrease on the next tradin
 
 ## 📁 Project Structure
 
-├── stock_predictor.ipynb   
+├── TCS_STOCK.ipynb   
 ├── README.md  
 ├── .gitignore  
 ├── LICENSE  
